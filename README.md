@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/antrika02/DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/antrika02/DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Hash Table
+|  |
+| ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+## Math
+|  |
+| ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 <!---LeetCode Topics End-->
