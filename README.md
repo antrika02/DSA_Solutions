@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/antrika02/DSA_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/antrika02/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/antrika02/DSA_Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/antrika02/DSA_Solutions/tree/master/0283-move-zeroes) |
@@ -90,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/antrika02/DSA_Solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
