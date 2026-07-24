@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
