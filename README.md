@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/antrika02/DSA_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/antrika02/DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/antrika02/DSA_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/antrika02/DSA_Solutions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/antrika02/DSA_Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/antrika02/DSA_Solutions/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/antrika02/DSA_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0384-shuffle-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/antrika02/DSA_Solutions/tree/master/0393-utf-8-validation) |
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/antrika02/DSA_Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/antrika02/DSA_Solutions/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/antrika02/DSA_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0393-utf-8-validation](https://github.com/antrika02/DSA_Solutions/tree/master/0393-utf-8-validation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
