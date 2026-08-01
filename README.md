@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/antrika02/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0384-shuffle-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/antrika02/DSA_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/antrika02/DSA_Solutions/tree/master/0393-utf-8-validation) |
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
