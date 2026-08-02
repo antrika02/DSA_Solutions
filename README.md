@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0384-shuffle-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/antrika02/DSA_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/antrika02/DSA_Solutions/tree/master/0393-utf-8-validation) |
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
