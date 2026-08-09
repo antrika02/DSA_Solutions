@@ -101,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
