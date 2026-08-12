@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/antrika02/DSA_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Simulation
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
