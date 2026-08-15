@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/antrika02/DSA_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/antrika02/DSA_Solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/antrika02/DSA_Solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Bit Manipulation
