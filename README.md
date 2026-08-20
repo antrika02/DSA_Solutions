@@ -75,16 +75,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
+| [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 ## Array
 |  |
 | ------- |
