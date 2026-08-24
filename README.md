@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/antrika02/DSA_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/antrika02/DSA_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antrika02/DSA_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/antrika02/DSA_Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/antrika02/DSA_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/antrika02/DSA_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/antrika02/DSA_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 ## Trie
 |  |
 | ------- |
@@ -273,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/antrika02/DSA_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/antrika02/DSA_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
