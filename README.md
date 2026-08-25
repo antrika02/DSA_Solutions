@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4001-aggregate-two-time-series](https://github.com/antrika02/DSA_Solutions/tree/master/4001-aggregate-two-time-series) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4001-aggregate-two-time-series](https://github.com/antrika02/DSA_Solutions/tree/master/4001-aggregate-two-time-series) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting
 |  |
 | ------- |
