@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3903-smallest-stable-index-i](https://github.com/antrika02/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/antrika02/DSA_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4001-aggregate-two-time-series](https://github.com/antrika02/DSA_Solutions/tree/master/4001-aggregate-two-time-series) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/antrika02/DSA_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4001-aggregate-two-time-series](https://github.com/antrika02/DSA_Solutions/tree/master/4001-aggregate-two-time-series) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
