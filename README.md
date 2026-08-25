@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4001-aggregate-two-time-series](https://github.com/antrika02/DSA_Solutions/tree/master/4001-aggregate-two-time-series) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
 |  |
 | ------- |
