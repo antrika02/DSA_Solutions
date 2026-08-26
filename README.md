@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/antrika02/DSA_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -82,18 +83,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
+| [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 ## Array
 |  |
