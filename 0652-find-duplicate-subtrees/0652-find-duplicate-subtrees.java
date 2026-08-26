@@ -1,34 +1,54 @@
-import java.util.*;
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    Map<String, Integer> ids = new HashMap<>();
-    Map<Integer, Integer> cnt = new HashMap<>();
-    List<TreeNode> ans = new ArrayList<>();
-    int id = 1;
+     HashMap<String, Integer> map = new HashMap<>();
+
+    List<TreeNode> result = new ArrayList<>();
 
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
-        dfs(root);
-        return ans;
+
+        serialize(root);
+
+        return result;
+
     }
 
-    private int dfs(TreeNode node) {
-        if (node == null)
-            return 0;
+    private String serialize(TreeNode node) {
 
-        int l = dfs(node.left);
-        int r = dfs(node.right);
+        if (node == null) {
 
-        String key = node.val + "#" + l + "#" + r;
+            return "#";
 
-        int curId = ids.getOrDefault(key, id++);
-        ids.putIfAbsent(key, curId);
+        }
 
-        int count = cnt.getOrDefault(curId, 0) + 1;
-        cnt.put(curId, count);
+        String left = serialize(node.left);
 
-        if (count == 2)
-            ans.add(node);
+        String right = serialize(node.right);
 
-        return curId;
+        String key = node.val + "," + left + "," + right;
+
+        int count = map.getOrDefault(key, 0);
+        if (count == 1) {
+
+            result.add(node);
+
+        }
+
+        map.put(key, count + 1);
+
+        return key;  
     }
 }
