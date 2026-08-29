@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/antrika02/DSA_Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/antrika02/DSA_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/antrika02/DSA_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/antrika02/DSA_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/antrika02/DSA_Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/antrika02/DSA_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/antrika02/DSA_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
