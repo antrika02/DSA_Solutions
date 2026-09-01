@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/antrika02/DSA_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/antrika02/DSA_Solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Simulation
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/antrika02/DSA_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/antrika02/DSA_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
