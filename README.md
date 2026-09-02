@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antrika02/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Tree
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/antrika02/DSA_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3903-smallest-stable-index-i](https://github.com/antrika02/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
