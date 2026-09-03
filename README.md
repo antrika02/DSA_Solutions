@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/antrika02/DSA_Solutions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/antrika02/DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/antrika02/DSA_Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/antrika02/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
+| [0605-can-place-flowers](https://github.com/antrika02/DSA_Solutions/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/antrika02/DSA_Solutions/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1140-stone-game-ii](https://github.com/antrika02/DSA_Solutions/tree/master/1140-stone-game-ii) |
