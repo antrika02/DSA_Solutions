@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Monotonic Stack
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antrika02/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3870-count-commas-in-range](https://github.com/antrika02/DSA_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/antrika02/DSA_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/antrika02/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/antrika02/DSA_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/antrika02/DSA_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting
