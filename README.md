@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antrika02/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3870-count-commas-in-range](https://github.com/antrika02/DSA_Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
