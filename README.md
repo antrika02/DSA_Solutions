@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/antrika02/DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/antrika02/DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/antrika02/DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
