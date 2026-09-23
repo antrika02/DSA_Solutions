@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/antrika02/DSA_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/antrika02/DSA_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/antrika02/DSA_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/antrika02/DSA_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/antrika02/DSA_Solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/antrika02/DSA_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/antrika02/DSA_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/antrika02/DSA_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/antrika02/DSA_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/antrika02/DSA_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/antrika02/DSA_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
