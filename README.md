@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/antrika02/DSA_Solutions/tree/master/0115-distinct-subsequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/antrika02/DSA_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0500-keyboard-row](https://github.com/antrika02/DSA_Solutions/tree/master/0500-keyboard-row) |
 | [0940-distinct-subsequences-ii](https://github.com/antrika02/DSA_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/antrika02/DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/antrika02/DSA_Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/antrika02/DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/antrika02/DSA_Solutions/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/antrika02/DSA_Solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/antrika02/DSA_Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/antrika02/DSA_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0923-3sum-with-multiplicity](https://github.com/antrika02/DSA_Solutions/tree/master/0923-3sum-with-multiplicity) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/antrika02/DSA_Solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/antrika02/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/antrika02/DSA_Solutions/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/antrika02/DSA_Solutions/tree/master/0500-keyboard-row) |
 | [0529-minesweeper](https://github.com/antrika02/DSA_Solutions/tree/master/0529-minesweeper) |
 | [0605-can-place-flowers](https://github.com/antrika02/DSA_Solutions/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/antrika02/DSA_Solutions/tree/master/0835-image-overlap) |
