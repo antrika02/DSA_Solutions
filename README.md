@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/antrika02/DSA_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/antrika02/DSA_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/antrika02/DSA_Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/antrika02/DSA_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/antrika02/DSA_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/antrika02/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/antrika02/DSA_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/antrika02/DSA_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/antrika02/DSA_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/antrika02/DSA_Solutions/tree/master/3731-find-missing-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/antrika02/DSA_Solutions/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/antrika02/DSA_Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
