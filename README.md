@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/antrika02/DSA_Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/antrika02/DSA_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/antrika02/DSA_Solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/antrika02/DSA_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
