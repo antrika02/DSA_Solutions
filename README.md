@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/antrika02/DSA_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/antrika02/DSA_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/antrika02/DSA_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/antrika02/DSA_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/antrika02/DSA_Solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/antrika02/DSA_Solutions/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/antrika02/DSA_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/antrika02/DSA_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2296-design-a-text-editor](https://github.com/antrika02/DSA_Solutions/tree/master/2296-design-a-text-editor) |
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antrika02/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/antrika02/DSA_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/antrika02/DSA_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/antrika02/DSA_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/antrika02/DSA_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Number Theory
 |  |
