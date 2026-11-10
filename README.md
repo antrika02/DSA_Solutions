@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/antrika02/DSA_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4026-maximum-gap-between-stations](https://github.com/antrika02/DSA_Solutions/tree/master/4026-maximum-gap-between-stations) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/antrika02/DSA_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/antrika02/DSA_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/antrika02/DSA_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/antrika02/DSA_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/antrika02/DSA_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/antrika02/DSA_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/antrika02/DSA_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Ordered Set
 |  |
 | ------- |
