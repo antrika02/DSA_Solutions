@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/antrika02/DSA_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/antrika02/DSA_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/antrika02/DSA_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/antrika02/DSA_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/antrika02/DSA_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/antrika02/DSA_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/antrika02/DSA_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/antrika02/DSA_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/antrika02/DSA_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/antrika02/DSA_Solutions/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/antrika02/DSA_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/antrika02/DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/antrika02/DSA_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/antrika02/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/antrika02/DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/antrika02/DSA_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/antrika02/DSA_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/antrika02/DSA_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/antrika02/DSA_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/antrika02/DSA_Solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/antrika02/DSA_Solutions/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/antrika02/DSA_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/antrika02/DSA_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/antrika02/DSA_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/antrika02/DSA_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
